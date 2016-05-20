@@ -1,7 +1,9 @@
+
+
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background-image:url(https://67.media.tumblr.com/71de4f3fb11cfe1263d9223ce56d2d37/tumblr_nu8qivaKaU1uaw4o6o1_1280.jpg);
 }
 
 #header
@@ -53,7 +55,7 @@
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
+	background-color: #ff28d5;
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
@@ -62,7 +64,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #50ff35;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -79,7 +81,7 @@
 	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	background-color:#50ff35;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
@@ -88,7 +90,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #50ff35;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
